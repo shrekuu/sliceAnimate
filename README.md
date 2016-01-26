@@ -1,5 +1,7 @@
 # sliceAnimate
 
+预览地址:  http://shrekuu.github.io/sliceAnimate/
+
 sliceAnimate是一个分动画的轮播插件，你只需要在dom元素上指定好动画的值（left、top、bottom、right、opacity）
 就可以很轻松的完成动画效果。
 
